@@ -1,3 +1,5 @@
+--For further information, reach out to avirup.ece2013@gmail.com
+
 function love.run()
  
 	if love.math then
